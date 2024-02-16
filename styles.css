@@ -31,6 +31,14 @@ nav ul li{
     font-size: 1.1rem;
     font-family: 'Times New Roman', Times, serif;
 }
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover {
+    color: rgb(76, 76, 211);
+    font-size: 1.11rem;
+}
 
 .left {
     font-size: 1.5rem;
@@ -52,9 +60,12 @@ nav ul li{
 }
 .leftSection {
     font-size: 2.5rem;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .purple {
     color: rgb(136, 63, 203);
+}
+#element {
+    color: rgb(136, 63, 203) ;
 }
