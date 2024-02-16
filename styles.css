@@ -1,7 +1,6 @@
 * {
     margin: 0;
     padding:0;
-    font-family: "Poppins", sans-serif;
 }
 
 body {
@@ -30,6 +29,7 @@ nav ul li{
     font-weight: 400;
     font-style: normal;
     font-size: 1.1rem;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .left {
@@ -39,21 +39,20 @@ nav ul li{
 .firstSection {
     display: flex;
     justify-content: space-around;
+    align-items: center;
     margin: 80px 0;
 }
 
 .firstSection > div {
-    width: 35%;
+    width: 30%;
 }
 
 .rightSection img {
-    width: 70%;
-    margin-left: 20px;
+    width: 80%;
 }
 .leftSection {
     font-size: 2.5rem;
-    margin: 70px 0;
-    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .purple {
