@@ -97,3 +97,21 @@ main hr {
     background-color: white;
     margin: 0 100px;
 }
+
+.image-top {
+    width: 23px;
+    position: relative;
+    top: -32px;
+    left: -9px;
+}
+.vertical-title {
+    position: relative;
+    top: 75px;
+    width: 150px;
+}
+.vertical-desc {
+    position: relative;
+    top: 86px;
+    width: 150px;
+    color: gray;
+}
