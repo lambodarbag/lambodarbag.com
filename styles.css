@@ -52,7 +52,7 @@ main hr {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin: 70px 0;
+    margin: 50px 0;
 }
 
 .firstSection > div {
