@@ -40,6 +40,13 @@ nav ul li a:hover {
     font-size: 1.11rem;
 }
 
+main hr {
+    border: 0;
+    background: rgb(69, 59, 201);
+    height: 1.2px;
+    margin: 60px 84px;
+}
+
 .left {
     font-size: 1.5rem;
 }
@@ -66,6 +73,24 @@ nav ul li a:hover {
 .purple {
     color: rgb(136, 63, 203);
 }
+.text-gray {
+    color: gray;
+}
 #element {
     color: rgb(136, 63, 203) ;
+}
+
+.secondSection {
+    max-width: 80vw;
+    margin: auto;
+    height: 80vh;
+}
+.secondSection h1{
+    font-size: 1.9rem;
+}
+.secondSection .box {
+    background: white;
+    width: 80vw;
+    height: 2px;
+    margin: 56px 0;
 }
