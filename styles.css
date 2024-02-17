@@ -89,4 +89,11 @@ main hr {
     width: 80vw;
     height: 2px;
     margin: 56px 0;
+    display: flex;
+}
+.secondSection .vertical {
+    height: 93px;
+    width: 1px;
+    background-color: white;
+    margin: 0 100px;
 }
