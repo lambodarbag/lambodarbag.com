@@ -64,6 +64,7 @@ main hr {
 }
 .leftSection {
     font-size: 2.1rem;
+    font-weight: 600;
 }
 .leftSection .button {
     padding: 20px 0;
